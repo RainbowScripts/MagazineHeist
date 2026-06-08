@@ -1,8 +1,8 @@
 # Magazine-Heist
 
 
-Preview - https://youtu.be/kSexqzEkRew
+New Link: https://github.com/Scriptify-pl/MagazineHeist
 
-Tebex - https://rainbow-scripts.tebex.io/
+Store: https://scriptify-store.tebex.io/
 
-Discord - https://discord.gg/gCxeuwxzfY
+Youtube: https://www.youtube.com/@scriptify-fivem
